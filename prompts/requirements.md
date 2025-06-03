@@ -1,9 +1,9 @@
 I would like to create concise functional requirements for the following application:
 
-[Your application description here]
+{{APPLICATION_DESCRIPTION}}
 
 My requirements are:
 
-[Your requirements here]
+{{REQUIREMENTS}}
 
 Output as markdown code.
